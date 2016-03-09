@@ -1,0 +1,26 @@
+{
+  "name": "Analizador de Vocabulario",
+  "description": "descripcion",
+  "main": "index.html",
+  "authors": [
+    "Pedro Martin del Campo Gonzalez"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "analizador",
+    "de",
+    "vocabulario"
+  ],
+  "homepage": "https://github.com/PedroMartinDelCampo/Analizador-de-Vocabulario",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "zurb/foundation#^6.2.0"
+  }
+}

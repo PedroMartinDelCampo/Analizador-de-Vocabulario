@@ -1,0 +1,28 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "descripcion",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroMartinDelCampo/Analizador-de-Vocabulario.git"
+  },
+  "keywords": [
+    "analizador",
+    "de",
+    "vocabulario"
+  ],
+  "author": "Pedro Martin del Campo Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroMartinDelCampo/Analizador-de-Vocabulario/issues"
+  },
+  "homepage": "https://github.com/PedroMartinDelCampo/Analizador-de-Vocabulario#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "karma": "^0.13.21"
+  }
+}
